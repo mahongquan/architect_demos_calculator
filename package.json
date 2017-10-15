@@ -12,8 +12,6 @@
     },
     "dependencies": {
         "architect": "^0.1.13",
-        "architect-http": "0.0.2",
-        "architect-http-static": "~0.0.1",
         "creationix": "^0.3.1",
         "stack": "^0.1.0"
     },
